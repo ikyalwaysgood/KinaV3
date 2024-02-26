@@ -14,13 +14,6 @@ This is Script of WhatsApp multi device, working with [`@whiskeysockets/baileys`
 - [✓] Connect with Pairing-Code
 - [✓] Ai Features
 
-## Requirements
-1. [NodeJS](https://nodejs.org/en/download) 16x/17x
-2. [APIKEY](https://apiruulzz.my.id)
-
-## Support My Youtube Channel
-- [RullZY](http://www.youtube.com/@Rullxzz)
-
 ### EXAMPLE INSTALL & RUN
 
 install
