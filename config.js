@@ -16,13 +16,13 @@ export default {
       antiCall: true, // reject call
       autoread: true, // auto read message
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["62xxxxxxxxxx"], // set owner number on here
+      owner: ["6285794908894"], // set owner number on here
       pairing: "",
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_|/~!?@#%^&.©^]/i,
       pairingNumber: "", // Example Input : 62xxx
       pathPlugins: "plugins",
-      wm: "*Source:* https://apiruulzz.my.id"
+      wm: "Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ"
    },
    
    // Function Maybee
@@ -43,8 +43,8 @@ export default {
       packId: "https://apiruulzz.my.id",
       packName: null,
       packPublish: '         Rulz. - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
-      packEmail: "rullskeyy@gmail.com",
-      packWebsite: "https://apiruulzz.my.id",
+      packEmail: "!",
+      packWebsite: "!",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       emojis: [],
