@@ -39,10 +39,10 @@ export default {
    
    // Set pack name sticker on here
    Exif: {
-      wm: "Rulzz",
-      packId: "https://apiruulzz.my.id",
+      wm: "Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ",
+      packId: "!",
       packName: null,
-      packPublish: '         Rulz. - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
+      packPublish: '         Kιɳα Bσƚ - Assistant\n      ——————————————\n\nCreated on date:\n' + sekarang,
       packEmail: "!",
       packWebsite: "!",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
