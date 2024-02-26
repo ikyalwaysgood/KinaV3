@@ -1,11 +1,8 @@
-# Legacy V.3.0 (Remake Last Version)
-
 <p align="center">
-      <img src="https://gcdnb.pbrd.co/images/0KrsdPvPTTxP.jpg" width="99%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
+<img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" alt="BOT WHATSAPP" width="400"/>
 
-This is Script of WhatsApp multi device, working with [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys)
 
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Kιɳα Bσƚ | Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
 ## Highlights
 
 - [✓] Easy to maintenance
